@@ -71,7 +71,7 @@
       "textButton": "Agree"
     },
     "imageResize": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "aboutus.html": {
